@@ -1,0 +1,47 @@
+[
+  {
+    "id": 825428472,
+    "serviceTag": "J7S8KH2",
+    "orderBuid": 11,
+    "shipDate": "2017-05-01T05:00:00Z",
+    "productCode": "Y3002",
+    "localChannel": "84",
+    "productId": "optiplex-7050-desktop",
+    "productLineDescription": "OPTIPLEX 7050",
+    "productFamily": "all-products/desktops-and-workstations/optiplex-desktops/optiplex-7000-series",
+    "systemDescription": "OptiPlex 7050",
+    "productLobDescription": "OptiPlex Desktops",
+    "countryCode": "US",
+    "duplicated": false,
+    "invalid": false,
+    "entitlements": [
+      {
+        "itemNumber": "812-3900",
+        "startDate": "2017-04-30T05:00:00Z",
+        "endDate": "2022-05-01T04:59:59.999Z",
+        "entitlementType": "INITIAL",
+        "serviceLevelCode": "TS",
+        "serviceLevelDescription": "ProSupport",
+        "serviceLevelGroup": 8
+      },
+      {
+        "itemNumber": "980-7554",
+        "startDate": "2017-04-30T05:00:00Z",
+        "endDate": "2022-05-01T04:59:59.999Z",
+        "entitlementType": "INITIAL",
+        "serviceLevelCode": "KK",
+        "serviceLevelDescription": "Keep Your Hard Drive/Keep Your Hard Drive for Enterprise Service",
+        "serviceLevelGroup": 11
+      },
+      {
+        "itemNumber": "812-3910",
+        "startDate": "2017-05-01T05:00:00Z",
+        "endDate": "2022-05-02T04:59:59.999Z",
+        "entitlementType": "INITIAL",
+        "serviceLevelCode": "ND",
+        "serviceLevelDescription": "Onsite Service After Remote Diagnosis (Consumer Customer)/ Next Business Day Onsite After Remote Diagnosis (for business Customer)",
+        "serviceLevelGroup": 5
+      }
+    ]
+  }
+]

@@ -1,0 +1,123 @@
+242 INFO: PyInstaller: 6.16.0, contrib hooks: 2025.9
+243 INFO: Python: 3.13.7
+276 INFO: Platform: Windows-11-10.0.26100-SP0
+276 INFO: Python environment: c:\Users\beej\OneDrive - Florida Department of Health\Documents\Scripts\WarrantyReports\.venv
+277 INFO: wrote C:\Users\beej\OneDrive - Florida Department of Health\Documents\Scripts\WarrantyReports\Warranty_Report_GUI.spec
+279 INFO: Removing temporary files and cleaning cache in C:\Users\beej\AppData\Local\pyinstaller
+292 INFO: Module search paths (PYTHONPATH):
+['c:\\Users\\beej\\OneDrive - Florida Department of '
+ 'Health\\Documents\\Scripts\\WarrantyReports\\.venv\\Scripts\\pyinstaller.exe',
+ 'C:\\Users\\beej\\AppData\\Local\\Programs\\Python\\Python313\\python313.zip',
+ 'C:\\Users\\beej\\AppData\\Local\\Programs\\Python\\Python313\\DLLs',
+ 'C:\\Users\\beej\\AppData\\Local\\Programs\\Python\\Python313\\Lib',
+ 'C:\\Users\\beej\\AppData\\Local\\Programs\\Python\\Python313',
+ 'c:\\Users\\beej\\OneDrive - Florida Department of '
+ 'Health\\Documents\\Scripts\\WarrantyReports\\.venv',
+ 'c:\\Users\\beej\\OneDrive - Florida Department of '
+ 'Health\\Documents\\Scripts\\WarrantyReports\\.venv\\Lib\\site-packages',
+ 'c:\\Users\\beej\\OneDrive - Florida Department of '
+ 'Health\\Documents\\Scripts\\WarrantyReports\\.venv\\Lib\\site-packages\\setuptools\\_vendor',
+ 'C:\\Users\\beej\\OneDrive - Florida Department of '
+ 'Health\\Documents\\Scripts\\WarrantyReports']
+1095 INFO: checking Analysis
+1096 INFO: Building Analysis because Analysis-00.toc is non existent
+1096 INFO: Looking for Python shared library...
+1096 INFO: Using Python shared library: C:\Users\beej\AppData\Local\Programs\Python\Python313\python313.dll
+1096 INFO: Running Analysis Analysis-00.toc
+1096 INFO: Target bytecode optimization level: 0
+1096 INFO: Initializing module dependency graph...
+1097 INFO: Initializing module graph hook caches...
+1165 INFO: Analyzing modules for base_library.zip ...
+3141 INFO: Processing standard module hook 'hook-encodings.py' from 'c:\\Users\\beej\\OneDrive - Florida Department of Health\\Documents\\Scripts\\WarrantyReports\\.venv\\Lib\\site-packages\\PyInstaller\\hooks'
+4115 INFO: Processing standard module hook 'hook-heapq.py' from 'c:\\Users\\beej\\OneDrive - Florida Department of Health\\Documents\\Scripts\\WarrantyReports\\.venv\\Lib\\site-packages\\PyInstaller\\hooks'
+6127 INFO: Processing standard module hook 'hook-pickle.py' from 'c:\\Users\\beej\\OneDrive - Florida Department of Health\\Documents\\Scripts\\WarrantyReports\\.venv\\Lib\\site-packages\\PyInstaller\\hooks'
+10002 INFO: Caching module dependency graph...
+10037 INFO: Analyzing C:\Users\beej\OneDrive - Florida Department of Health\Documents\Scripts\WarrantyReports\Warranty_Report_GUI.py
+10043 INFO: Processing pre-find-module-path hook 'hook-tkinter.py' from 'c:\\Users\\beej\\OneDrive - Florida Department of Health\\Documents\\Scripts\\WarrantyReports\\.venv\\Lib\\site-packages\\PyInstaller\\hooks\\pre_find_module_path'
+10043 INFO: TclTkInfo: initializing cached Tcl/Tk info...
+10354 INFO: Processing standard module hook 'hook-_tkinter.py' from 'c:\\Users\\beej\\OneDrive - Florida Department of Health\\Documents\\Scripts\\WarrantyReports\\.venv\\Lib\\site-packages\\PyInstaller\\hooks'
+10444 INFO: Processing standard module hook 'hook-urllib3.py' from 'c:\\Users\\beej\\OneDrive - Florida Department of Health\\Documents\\Scripts\\WarrantyReports\\.venv\\Lib\\site-packages\\_pyinstaller_hooks_contrib\\stdhooks'
+10841 INFO: Processing pre-safe-import-module hook 'hook-typing_extensions.py' from 'c:\\Users\\beej\\OneDrive - Florida Department of Health\\Documents\\Scripts\\WarrantyReports\\.venv\\Lib\\site-packages\\PyInstaller\\hooks\\pre_safe_import_module'
+10843 INFO: SetuptoolsInfo: initializing cached setuptools info...
+14672 INFO: Setuptools: 'typing_extensions' appears to be a setuptools-vendored copy - creating alias to 'setuptools._vendor.typing_extensions'!
+14693 INFO: Processing standard module hook 'hook-setuptools.py' from 'c:\\Users\\beej\\OneDrive - Florida Department of Health\\Documents\\Scripts\\WarrantyReports\\.venv\\Lib\\site-packages\\PyInstaller\\hooks'
+14800 INFO: Processing standard module hook 'hook-platform.py' from 'c:\\Users\\beej\\OneDrive - Florida Department of Health\\Documents\\Scripts\\WarrantyReports\\.venv\\Lib\\site-packages\\PyInstaller\\hooks'
+14848 INFO: Processing standard module hook 'hook-_ctypes.py' from 'c:\\Users\\beej\\OneDrive - Florida Department of Health\\Documents\\Scripts\\WarrantyReports\\.venv\\Lib\\site-packages\\PyInstaller\\hooks'
+14961 INFO: Processing pre-safe-import-module hook 'hook-distutils.py' from 'c:\\Users\\beej\\OneDrive - Florida Department of Health\\Documents\\Scripts\\WarrantyReports\\.venv\\Lib\\site-packages\\PyInstaller\\hooks\\pre_safe_import_module'
+15095 INFO: Processing standard module hook 'hook-sysconfig.py' from 'c:\\Users\\beej\\OneDrive - Florida Department of Health\\Documents\\Scripts\\WarrantyReports\\.venv\\Lib\\site-packages\\PyInstaller\\hooks'
+15112 INFO: Processing pre-safe-import-module hook 'hook-jaraco.functools.py' from 'c:\\Users\\beej\\OneDrive - Florida Department of Health\\Documents\\Scripts\\WarrantyReports\\.venv\\Lib\\site-packages\\PyInstaller\\hooks\\pre_safe_import_module'
+15113 INFO: Setuptools: 'jaraco.functools' appears to be a setuptools-vendored copy - creating alias to 'setuptools._vendor.jaraco.functools'!
+15136 INFO: Processing pre-safe-import-module hook 'hook-more_itertools.py' from 'c:\\Users\\beej\\OneDrive - Florida Department of Health\\Documents\\Scripts\\WarrantyReports\\.venv\\Lib\\site-packages\\PyInstaller\\hooks\\pre_safe_import_module'
+15137 INFO: Setuptools: 'more_itertools' appears to be a setuptools-vendored copy - creating alias to 'setuptools._vendor.more_itertools'!
+15579 INFO: Processing pre-safe-import-module hook 'hook-packaging.py' from 'c:\\Users\\beej\\OneDrive - Florida Department of Health\\Documents\\Scripts\\WarrantyReports\\.venv\\Lib\\site-packages\\PyInstaller\\hooks\\pre_safe_import_module'
+15973 INFO: Processing pre-safe-import-module hook 'hook-jaraco.text.py' from 'c:\\Users\\beej\\OneDrive - Florida Department of Health\\Documents\\Scripts\\WarrantyReports\\.venv\\Lib\\site-packages\\PyInstaller\\hooks\\pre_safe_import_module'
+15973 INFO: Setuptools: 'jaraco.text' appears to be a setuptools-vendored copy - creating alias to 'setuptools._vendor.jaraco.text'!
+15998 INFO: Processing standard module hook 'hook-setuptools._vendor.jaraco.text.py' from 'c:\\Users\\beej\\OneDrive - Florida Department of Health\\Documents\\Scripts\\WarrantyReports\\.venv\\Lib\\site-packages\\PyInstaller\\hooks'
+16000 INFO: Processing pre-safe-import-module hook 'hook-importlib_resources.py' from 'c:\\Users\\beej\\OneDrive - Florida Department of Health\\Documents\\Scripts\\WarrantyReports\\.venv\\Lib\\site-packages\\PyInstaller\\hooks\\pre_safe_import_module'
+16002 INFO: Processing pre-safe-import-module hook 'hook-jaraco.context.py' from 'c:\\Users\\beej\\OneDrive - Florida Department of Health\\Documents\\Scripts\\WarrantyReports\\.venv\\Lib\\site-packages\\PyInstaller\\hooks\\pre_safe_import_module'
+16003 INFO: Setuptools: 'jaraco.context' appears to be a setuptools-vendored copy - creating alias to 'setuptools._vendor.jaraco.context'!
+16377 INFO: Processing pre-safe-import-module hook 'hook-backports.tarfile.py' from 'c:\\Users\\beej\\OneDrive - Florida Department of Health\\Documents\\Scripts\\WarrantyReports\\.venv\\Lib\\site-packages\\PyInstaller\\hooks\\pre_safe_import_module'
+16378 INFO: Setuptools: 'backports.tarfile' appears to be a setuptools-vendored copy - creating alias to 'setuptools._vendor.backports.tarfile'!
+16494 INFO: Processing standard module hook 'hook-backports.py' from 'c:\\Users\\beej\\OneDrive - Florida Department of Health\\Documents\\Scripts\\WarrantyReports\\.venv\\Lib\\site-packages\\_pyinstaller_hooks_contrib\\stdhooks'
+16708 INFO: Processing pre-safe-import-module hook 'hook-importlib_metadata.py' from 'c:\\Users\\beej\\OneDrive - Florida Department of Health\\Documents\\Scripts\\WarrantyReports\\.venv\\Lib\\site-packages\\PyInstaller\\hooks\\pre_safe_import_module'
+16708 INFO: Setuptools: 'importlib_metadata' appears to be a setuptools-vendored copy - creating alias to 'setuptools._vendor.importlib_metadata'!
+16749 INFO: Processing standard module hook 'hook-setuptools._vendor.importlib_metadata.py' from 'c:\\Users\\beej\\OneDrive - Florida Department of Health\\Documents\\Scripts\\WarrantyReports\\.venv\\Lib\\site-packages\\PyInstaller\\hooks'
+16752 INFO: Processing pre-safe-import-module hook 'hook-zipp.py' from 'c:\\Users\\beej\\OneDrive - Florida Department of Health\\Documents\\Scripts\\WarrantyReports\\.venv\\Lib\\site-packages\\PyInstaller\\hooks\\pre_safe_import_module'
+16753 INFO: Setuptools: 'zipp' appears to be a setuptools-vendored copy - creating alias to 'setuptools._vendor.zipp'!
+17532 INFO: Processing pre-safe-import-module hook 'hook-tomli.py' from 'c:\\Users\\beej\\OneDrive - Florida Department of Health\\Documents\\Scripts\\WarrantyReports\\.venv\\Lib\\site-packages\\PyInstaller\\hooks\\pre_safe_import_module'
+17533 INFO: Setuptools: 'tomli' appears to be a setuptools-vendored copy - creating alias to 'setuptools._vendor.tomli'!
+18540 INFO: Processing pre-safe-import-module hook 'hook-wheel.py' from 'c:\\Users\\beej\\OneDrive - Florida Department of Health\\Documents\\Scripts\\WarrantyReports\\.venv\\Lib\\site-packages\\PyInstaller\\hooks\\pre_safe_import_module'
+18540 INFO: Setuptools: 'wheel' appears to be a setuptools-vendored copy - creating alias to 'setuptools._vendor.wheel'!
+19969 INFO: Processing standard module hook 'hook-charset_normalizer.py' from 'c:\\Users\\beej\\OneDrive - Florida Department of Health\\Documents\\Scripts\\WarrantyReports\\.venv\\Lib\\site-packages\\_pyinstaller_hooks_contrib\\stdhooks'
+20273 INFO: Processing standard module hook 'hook-certifi.py' from 'c:\\Users\\beej\\OneDrive - Florida Department of Health\\Documents\\Scripts\\WarrantyReports\\.venv\\Lib\\site-packages\\_pyinstaller_hooks_contrib\\stdhooks'
+20746 INFO: Processing standard module hook 'hook-pandas.py' from 'c:\\Users\\beej\\OneDrive - Florida Department of Health\\Documents\\Scripts\\WarrantyReports\\.venv\\Lib\\site-packages\\PyInstaller\\hooks'
+22790 INFO: Processing standard module hook 'hook-numpy.py' from 'c:\\Users\\beej\\OneDrive - Florida Department of Health\\Documents\\Scripts\\WarrantyReports\\.venv\\Lib\\site-packages\\PyInstaller\\hooks'
+24132 INFO: Processing standard module hook 'hook-difflib.py' from 'c:\\Users\\beej\\OneDrive - Florida Department of Health\\Documents\\Scripts\\WarrantyReports\\.venv\\Lib\\site-packages\\PyInstaller\\hooks'
+24562 INFO: Processing standard module hook 'hook-multiprocessing.util.py' from 'c:\\Users\\beej\\OneDrive - Florida Department of Health\\Documents\\Scripts\\WarrantyReports\\.venv\\Lib\\site-packages\\PyInstaller\\hooks'
+24722 INFO: Processing standard module hook 'hook-xml.py' from 'c:\\Users\\beej\\OneDrive - Florida Department of Health\\Documents\\Scripts\\WarrantyReports\\.venv\\Lib\\site-packages\\PyInstaller\\hooks'
+30089 INFO: Processing standard module hook 'hook-pytz.py' from 'c:\\Users\\beej\\OneDrive - Florida Department of Health\\Documents\\Scripts\\WarrantyReports\\.venv\\Lib\\site-packages\\PyInstaller\\hooks'
+34623 INFO: Processing standard module hook 'hook-pandas.io.formats.style.py' from 'c:\\Users\\beej\\OneDrive - Florida Department of Health\\Documents\\Scripts\\WarrantyReports\\.venv\\Lib\\site-packages\\PyInstaller\\hooks'
+38094 INFO: Processing standard module hook 'hook-pandas.plotting.py' from 'c:\\Users\\beej\\OneDrive - Florida Department of Health\\Documents\\Scripts\\WarrantyReports\\.venv\\Lib\\site-packages\\PyInstaller\\hooks'
+39955 INFO: Processing standard module hook 'hook-sqlite3.py' from 'c:\\Users\\beej\\OneDrive - Florida Department of Health\\Documents\\Scripts\\WarrantyReports\\.venv\\Lib\\site-packages\\PyInstaller\\hooks'
+40459 INFO: Processing standard module hook 'hook-pandas.io.clipboard.py' from 'c:\\Users\\beej\\OneDrive - Florida Department of Health\\Documents\\Scripts\\WarrantyReports\\.venv\\Lib\\site-packages\\PyInstaller\\hooks'
+40963 INFO: Processing standard module hook 'hook-dateutil.py' from 'c:\\Users\\beej\\OneDrive - Florida Department of Health\\Documents\\Scripts\\WarrantyReports\\.venv\\Lib\\site-packages\\_pyinstaller_hooks_contrib\\stdhooks'
+41238 INFO: Processing pre-safe-import-module hook 'hook-six.moves.py' from 'c:\\Users\\beej\\OneDrive - Florida Department of Health\\Documents\\Scripts\\WarrantyReports\\.venv\\Lib\\site-packages\\PyInstaller\\hooks\\pre_safe_import_module'
+41968 INFO: Processing standard module hook 'hook-xml.etree.cElementTree.py' from 'c:\\Users\\beej\\OneDrive - Florida Department of Health\\Documents\\Scripts\\WarrantyReports\\.venv\\Lib\\site-packages\\PyInstaller\\hooks'
+42007 INFO: Processing standard module hook 'hook-xml.dom.domreg.py' from 'c:\\Users\\beej\\OneDrive - Florida Department of Health\\Documents\\Scripts\\WarrantyReports\\.venv\\Lib\\site-packages\\PyInstaller\\hooks'
+43171 INFO: Processing module hooks (post-graph stage)...
+43211 WARNING: Hidden import "jinja2" not found!
+44027 INFO: Processing standard module hook 'hook-_tkinter.py' from 'c:\\Users\\beej\\OneDrive - Florida Department of Health\\Documents\\Scripts\\WarrantyReports\\.venv\\Lib\\site-packages\\PyInstaller\\hooks'
+44046 INFO: Performing binary vs. data reclassification (1551 entries)
+55458 INFO: Looking for ctypes DLLs
+55518 INFO: Analyzing run-time hooks ...
+55522 INFO: Including run-time hook 'pyi_rth_inspect.py' from 'c:\\Users\\beej\\OneDrive - Florida Department of Health\\Documents\\Scripts\\WarrantyReports\\.venv\\Lib\\site-packages\\PyInstaller\\hooks\\rthooks'
+55537 INFO: Including run-time hook 'pyi_rth_setuptools.py' from 'c:\\Users\\beej\\OneDrive - Florida Department of Health\\Documents\\Scripts\\WarrantyReports\\.venv\\Lib\\site-packages\\PyInstaller\\hooks\\rthooks'
+55549 INFO: Including run-time hook 'pyi_rth_pkgutil.py' from 'c:\\Users\\beej\\OneDrive - Florida Department of Health\\Documents\\Scripts\\WarrantyReports\\.venv\\Lib\\site-packages\\PyInstaller\\hooks\\rthooks'
+55563 INFO: Including run-time hook 'pyi_rth_multiprocessing.py' from 'c:\\Users\\beej\\OneDrive - Florida Department of Health\\Documents\\Scripts\\WarrantyReports\\.venv\\Lib\\site-packages\\PyInstaller\\hooks\\rthooks'
+55576 INFO: Including run-time hook 'pyi_rth__tkinter.py' from 'c:\\Users\\beej\\OneDrive - Florida Department of Health\\Documents\\Scripts\\WarrantyReports\\.venv\\Lib\\site-packages\\PyInstaller\\hooks\\rthooks'
+55632 INFO: Creating base_library.zip...
+55661 INFO: Looking for dynamic libraries
+57047 INFO: Extra DLL search directories (AddDllDirectory): ['c:\\Users\\beej\\OneDrive - Florida Department of Health\\Documents\\Scripts\\WarrantyReports\\.venv\\Lib\\site-packages\\pandas.libs', 'c:\\Users\\beej\\OneDrive - Florida Department of Health\\Documents\\Scripts\\WarrantyReports\\.venv\\Lib\\site-packages\\numpy.libs']
+57047 INFO: Extra DLL search directories (PATH): []
+57904 INFO: Warnings written to C:\Users\beej\OneDrive - Florida Department of Health\Documents\Scripts\WarrantyReports\build\Warranty_Report_GUI\warn-Warranty_Report_GUI.txt
+57998 INFO: Graph cross-reference written to C:\Users\beej\OneDrive - Florida Department of Health\Documents\Scripts\WarrantyReports\build\Warranty_Report_GUI\xref-Warranty_Report_GUI.html
+58124 INFO: checking PYZ
+58124 INFO: Building PYZ because PYZ-00.toc is non existent
+58124 INFO: Building PYZ (ZlibArchive) C:\Users\beej\OneDrive - Florida Department of Health\Documents\Scripts\WarrantyReports\build\Warranty_Report_GUI\PYZ-00.pyz
+59116 INFO: Building PYZ (ZlibArchive) C:\Users\beej\OneDrive - Florida Department of Health\Documents\Scripts\WarrantyReports\build\Warranty_Report_GUI\PYZ-00.pyz completed successfully.
+59169 INFO: checking PKG
+59170 INFO: Building PKG because PKG-00.toc is non existent
+59170 INFO: Building PKG (CArchive) Warranty_Report_GUI.pkg
+67049 INFO: Building PKG (CArchive) Warranty_Report_GUI.pkg completed successfully.
+67086 INFO: Bootloader c:\Users\beej\OneDrive - Florida Department of Health\Documents\Scripts\WarrantyReports\.venv\Lib\site-packages\PyInstaller\bootloader\Windows-64bit-intel\runw.exe
+67086 INFO: checking EXE
+67086 INFO: Building EXE because EXE-00.toc is non existent
+67086 INFO: Building EXE from EXE-00.toc
+67086 INFO: Copying bootloader EXE to C:\Users\beej\OneDrive - Florida Department of Health\Documents\Scripts\WarrantyReports\dist\Warranty_Report_GUI.exe
+67207 INFO: Copying icon to EXE
+67277 INFO: Copying 0 resources to EXE
+67277 INFO: Embedding manifest in EXE
+70161 INFO: Appending PKG archive to EXE
+70361 INFO: Fixing EXE headers
+73446 INFO: Building EXE from EXE-00.toc completed successfully.
+73490 INFO: Build complete! The results are available in: C:\Users\beej\OneDrive - Florida Department of Health\Documents\Scripts\WarrantyReports\dist
